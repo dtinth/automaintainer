@@ -1,15 +1,11 @@
-# fresh-app
+# automaintainer
 
-To install dependencies:
+TBW
+
+Install dependencies:
 
 ```bash
 bun install
 ```
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v0.4.1. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Then add `$PWD/bin` to your `$PATH`. This will allow you to run `automaintainer` from anywhere.
