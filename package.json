@@ -1,5 +1,5 @@
 {
-  "name": "cache-transporter",
+  "name": "automaintainer",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -7,7 +7,7 @@
     "dev": "pnpm run build --watch"
   },
   "repository": {
-    "url": "git+https://github.com/dtinth/cache-transporter"
+    "url": "git+https://github.com/dtinth/automaintainer"
   },
   "devDependencies": {
     "@(-.-)/env": "^0.3.2",
